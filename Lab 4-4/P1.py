@@ -1,3 +1,9 @@
+"""
+Jiravit Boonyaritchaikit
+683040154-3
+P1
+"""
+
 from room import Bedroom, Kitchen
 
 bed = Bedroom(10,20,5)
